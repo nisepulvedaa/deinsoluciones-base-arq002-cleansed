@@ -16,6 +16,6 @@ INSERT INTO `dev_config_zone.process_email` (
         }
     ]
     ''',
-    'RAW',
+    'CLEANSED',
     1
 );
