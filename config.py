@@ -15,4 +15,4 @@ insert_satelite=""
 insert_hub=""
 insert_link=""
 ##CORREO
-correos_destino=""
+correos_destinatarios=""
