@@ -1,4 +1,4 @@
-proyecto="deinsoluciones-serveless"
+proyecto="deinsoluciones-serverless"
 nombre_proceso="" #nombre-proceso
 periodicidad="diario"# diario|mensual|esporadico
 ##CLEANSED
