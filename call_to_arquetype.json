@@ -1,0 +1,9 @@
+{
+  "cfg_pe": "diario",
+  "cfg_proc": "process-{{nombre_proceso}}",
+  "cfg_wf": "workflow-arquetipo-ingesta-cleansed",
+  "ejecutar_hub": true,
+  "ejecutar_link": false,
+  "ejecutar_sat": true,
+  "fp": "2025-04-24"
+}
